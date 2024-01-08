@@ -40,3 +40,6 @@ This project aims to analyze the "Causes of Death - Our World In Data" dataset u
 - Integrate more data sources for a holistic view of global health trends.
 - Enhance the dashboard with more interactive features to improve user engagement and insight extraction.
 - Use more advanced tools with for forecasting forecasting.
+
+Link to file:
+https://public.tableau.com/app/profile/ai1815/viz/Tableau-Project_17047189340480/CausesofDeathDashboard?publish=yes
